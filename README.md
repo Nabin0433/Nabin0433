@@ -11,20 +11,12 @@
       <img src="https://img.shields.io/badge/Facebook-1?color=green&logo=facebook" alt="FaceBook"/>
     </a>
   </div>
+  <img src="https://komarev.com/ghpvc/?username=nabin0433&style=flat-square&color=blue" alt=""/>
+  <h1>
+    Hello,
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
-<img src="https://komarev.com/ghpvc/?username=nabin0433&style=flat-square&color=blue" alt=""/>
-
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-
-
-- 🔭 I’m currently working on Full-time Freelancer
-- 🌱 I’m currently learning New Tech
-- 💬 Ask me about Tech related questions
-- 📫 How to reach me: Https:nabin-np.web.app
 
 ### :hammer_and_wrench: Languages and Tools :
 
