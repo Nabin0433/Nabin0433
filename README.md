@@ -5,10 +5,10 @@
       <img src="https://img.shields.io/badge/LinkedIn-1?color=blue&logo=linkedin" alt="LinkedIn Badge"/>
     </a>
     <a href="https://nabin-np.web.app/">
-      <img src="https://img.shields.io/badge/Portfoli-1?color=green&logo=any" alt="Portfoli"/>
+      <img src="https://img.shields.io/badge/Portfolio-1?color=red&logo=any" alt="Portfolio"/>
     </a>
     <a href="https://www.facebook.com/nabin.nabin.1232">
-      <img src="https://img.shields.io/badge/Facebook-1?color=black&logo=facebook" alt="FaceBook"/>
+      <img src="https://img.shields.io/badge/Facebook-1?color=green&logo=facebook" alt="FaceBook"/>
     </a>
   </div>
 </div>
