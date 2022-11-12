@@ -56,8 +56,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nabin0433&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nabin0433&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Nabin0433)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=nabin0433&count_private=true&theme=tokyonight)
+[![Nabin Status](https://github-readme-stats.vercel.app/api?username=nabin0433&count_private=true&theme=tokyonight)](https://github.com/Nabin0433)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabin0433&layout=compact&theme=vision-friendly-dark)](https://github.com/Nabin0433)
+
 
 
