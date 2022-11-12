@@ -13,6 +13,15 @@
   </div>
 </div>
 
+
+
+- 🔭 I’m currently working on Full-time Freelancer
+- 🌱 I’m currently learning New Tech
+- 💬 Ask me about Tech related questions
+- 📫 How to reach me: Https:nabin-np.web.app
+
+
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -30,9 +39,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-
-- 🔭 I’m currently working on Full-time Freelancer
-- 🌱 I’m currently learning New Tech
-- 💬 Ask me about Tech related questions
-- 📫 How to reach me: Https:nabin-np.web.app
