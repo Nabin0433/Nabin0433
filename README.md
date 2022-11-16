@@ -29,7 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
   - :seedling: Exploring New Technology.
 
-  - :zap: In my free time, I create open sorce projects and hepl others .
+  - :zap: In my free time, I create open sorce projects and hepls others .
 
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nabin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nabin-karki-18a514204/)
 
